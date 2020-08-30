@@ -1,3 +1,3 @@
-print('welcome 70')
+print('welcome70')
 
 
