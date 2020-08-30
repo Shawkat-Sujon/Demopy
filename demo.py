@@ -1,3 +1,3 @@
-print('welcome70')
+print('master')
 
 
