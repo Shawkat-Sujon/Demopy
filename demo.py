@@ -1,4 +1,3 @@
-print('welcome id70')
-print('wlc ')
+print('welcome 70')
 
 
